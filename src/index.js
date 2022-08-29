@@ -1,17 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import SideNav from "./components/SideNav";
+import MainContent from "./components/MainContent";
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+root.render(
+    <React.StrictMode>
+        <div className="w-3/4 m-auto">
+            <div className="grid grid-cols-6 shadow-lg m-6 border">
+                <div className="col-span-2">
+                    <SideNav/>
+                </div>
+                <div className="col-span-4">
+                    <MainContent/>
+                </div>
+            </div>
+        </div>
+    </React.StrictMode>
+);
