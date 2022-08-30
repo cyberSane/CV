@@ -6,11 +6,11 @@ import './index.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-const isFull = true;
+const isFull = false;
 
 root.render(
     <React.StrictMode>
-        <div className={isFull ? "" : "w-3/4 m-auto"}>
+        <div className={isFull ? "" : "w-2/3 m-auto"}>
             <div id="print-container" className="grid grid-cols-6 shadow-lg m-6 border">
                 <div className="col-span-2">
                     <SideNav/>

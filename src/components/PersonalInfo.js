@@ -8,7 +8,7 @@ const PersonalInfo = () => {
         <div id="photo" className="rounded-full overflow-hidden w-2/4">
             <img src={profileImage} alt="Profile Image"/>
         </div>
-        <div id="name" className="text-3xl">{data.personalInfo.name}</div>
+        <div id="name" className="text-2xl">{data.personalInfo.name}</div>
         <div id="designation" className="text-white text-opacity-50">{data.experience[0].designation}</div>
         <div className="flex items-center">
             <MapPinIcon className="w-4 h-4 mr-1"/>
