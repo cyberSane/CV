@@ -22,7 +22,7 @@ const ExperienceList = () => {
                     {
                         showProjectLabel && <div className='flex items-center text-blue-600'>
                             <RectangleGroupIcon className="w-4 h-4 mr-1"/>
-                            <div className="text-sm font-medium">Project</div>
+                            <div className="text-sm font-medium">Projects</div>
                         </div>
                     }
                     <div className="grid gap-4">
