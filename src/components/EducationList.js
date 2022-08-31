@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../data.json";
+import data from "../utils/dataHandler";
 import {AcademicCapIcon} from "@heroicons/react/24/outline";
 
 const EducationList = () => {

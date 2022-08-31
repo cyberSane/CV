@@ -1,5 +1,5 @@
 import profileImage from "../assets/profile.jpeg";
-import data from "../data.json";
+import data from "../utils/dataHandler";
 import React from "react";
 import {MapPinIcon} from "@heroicons/react/24/outline";
 

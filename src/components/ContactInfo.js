@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../data.json";
+import data from "../utils/dataHandler";
 import {EnvelopeIcon, PhoneIcon} from "@heroicons/react/24/outline";
 import github from "../assets/github.svg";
 import linkedIn from "../assets/linkedin.svg";

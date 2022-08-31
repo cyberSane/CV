@@ -1,5 +1,5 @@
 import {RectangleStackIcon, LinkIcon} from "@heroicons/react/24/solid";
-import data from "../data.json";
+import data from "../utils/dataHandler";
 
 const Courses = () => {
     return <div id="courses">

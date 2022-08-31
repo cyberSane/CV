@@ -1,0 +1,261 @@
+{
+  "personalInfo": {
+    "name": "Akshay Kumar Sharma",
+    "photo": "profile.jpeg",
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Professional"
+      },
+      {
+        "name": "Hindi",
+        "proficiency": "Native"
+      }
+    ],
+    "aboutMe": ""
+  },
+  "contactDetails": {
+    "phoneNumber": "+49 1768331479",
+    "email": "sharma.akshay234@gmail.com",
+    "linkedin": "cybersane",
+    "github": "cybersane"
+  },
+  "education": [
+    {
+      "degree": "Master of Computer Application",
+      "university": "SGVU",
+      "location": "Rajasthan, India",
+      "start": "2020",
+      "end": "Present"
+    },
+    {
+      "degree": "Bachelor of Computer Application",
+      "university": " Alagappa University",
+      "location": "Rajasthan, India",
+      "start": "2016",
+      "end": "2018"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zalando",
+      "companyLogo": "",
+      "designation": "Frontend Engineer",
+      "location": "Berlin, Germany",
+      "start": "Oct 2021",
+      "end": "Present",
+      "showProjectLabel": true,
+      "projects": [
+        {
+          "name": "Partner Program",
+          "details": [
+            "I am responsible for handling partner onboarding and partner management platform.",
+            "As part of my job, I have to interact with 4 different teams on regular basic to integrate new & existing pieces of onboarding and mangement flow.",
+            "In past I have owned and worked on multiple epics and taken responsibility from epic creation to feature successful release.",
+            "Analzyed areas which can be improved like enhancing integration testing, introduced storybooks.",
+            "Owned tech stack migraton from VueJs to React for internal partner management platform."
+          ],
+          "techStack": [
+            "Typescript",
+            "React",
+            "React-Query",
+            "Styled-Component",
+            "Ramda",
+            "React-Hook-Form",
+            "React-Testing-Library"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Udaan",
+      "companyLogo": "",
+      "designation": "Software Engineer",
+      "location": "Bangalore,India",
+      "start": "Apr 2021",
+      "end": "Sept 2021",
+      "showProjectLabel": true,
+      "projects": [
+        {
+          "name": "Udaan Pharma Vertical",
+          "details": [
+            "I was working as only frontend developer in the team and taking full responsiblty of the pharma micro-frontend.",
+            "Worked very closely with end-users and UX team to identify problem areas and pitched those in tech refinements to add potential improvements in the roadmap.",
+            "Mentored junior developers by guiding them with best tech practices."
+          ],
+          "techStack": [
+            "Typescript",
+            "React",
+            "React Native",
+            "Redux",
+            "ES6",
+            "Styled-Component",
+            "Antd."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "ThoughtWorks",
+      "companyLogo": "",
+      "designation": "Senior Application Developer",
+      "location": "Gurgaon,India",
+      "start": "Jul 2017",
+      "end": "Apr 2021",
+      "showProjectLabel": true,
+      "projects": [
+        {
+          "name": "Professional Networking",
+          "details": [
+            "I was working as a frontend developer in the team to buld a professional networking web application similar to linkedin.",
+            "Closely worked with UX team to provide suggestions in making overall experience better for the end users.",
+            "Improved developer machine setup time and cost by creating a mock server to replace VMware Fusion. It helped the client to save ~800$ per developer cost and also reduced the machine setup time by 90% .",
+            "Implemented pipeline as a code setup for frontend application for continuous integration and delivery."
+          ],
+          "techStack": [
+            "Javascript",
+            "React",
+            "Redux",
+            "ES6",
+            "SCSS",
+            "React Testing Library",
+            "Enzyme",
+            "Jest",
+            "GOCD"
+          ]
+        },
+        {
+          "name": "Out of Home Advertising",
+          "details": [
+            "Worked from scratch to implement a responsive web application which allows users to place orders for different advertisement banners in UK.",
+            "Worked with Product team to early identify dependencies or blockers in the new initiatives.",
+            "Collaborated with product and tech team in UK to plan, design and develop robust solutions."
+          ],
+          "techStack": [
+            "Typescript",
+            "Javascript",
+            "React",
+            "Redux",
+            "CSS3",
+            "SCSS",
+            "Enzyme",
+            "Jest",
+            "Jenkins"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "ThoughtWorks",
+      "companyLogo": "",
+      "designation": "Intern",
+      "location": "Bangalore,India",
+      "start": "Jul 2015",
+      "end": "Jul 2017",
+      "showProjectLabel": true,
+      "projects": [
+        {
+          "name": "eGaming",
+          "details": ["Developed frontend applications both customer facing and internal for eGaming football platform."],
+          "techStack": [
+            "Javascript",
+            "Chai",
+            "Sinon",
+            "Virtual Box",
+            "Html5",
+            "CSS3"
+          ]
+        },
+        {
+          "name": "Testing framework",
+          "details": ["Build an in-house testing framework to provide, execute and visualize firm interns performance."],
+          "techStack": [
+            "Javascript",
+            "NodeJs",
+            "ExpressJS",
+            "Chai",
+            "Sinon",
+            "D3",
+            "Html5",
+            "CSS3",
+            "MongoDb"
+          ]
+        }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "name": "React Hooks",
+      "link": "https://www.udemy.com/certificate/UC-be602e66-871b-438d-a306-884ceb651e9a/"
+    },
+    {
+      "name": "GraphQL with React",
+      "link": "https://www.udemy.com/certificate/UC-bfcd17fc-3a92-4232-8443-b054626dbc0c/"
+    },
+    {
+      "name": "Algorithms in JS",
+      "link": "https://www.udemy.com/certificate/UC-643b696e-d1c5-46ce-8be9-640cfe0d9038/"
+    },
+    {
+      "name": "Kubernetes Basics",
+      "link": "https://www.udemy.com/certificate/UC-d49e4fe8-b185-47cb-a4b5-5a9410286eff/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Typescript",
+      "rating": "90"
+    },
+    {
+      "name": "React",
+      "rating": "95"
+    },
+    {
+      "name": "Redux",
+      "rating": "85"
+    },
+    {
+      "name": "HTML5",
+      "rating": "85"
+    },
+    {
+      "name": "SCSS",
+      "rating": "85"
+    },
+    {
+      "name": "Jest",
+      "rating": "90"
+    },
+    {
+      "name": "Webpack",
+      "rating": "80"
+    },
+    {
+      "name": "Enzyme",
+      "rating": "90"
+    },
+    {
+      "name": "React Testing Library (RTL)",
+      "rating": "90"
+    },
+    {
+      "name": "Git",
+      "rating": "85"
+    }
+  ],
+  "workEnvExperience": [
+    {
+      "name": "Agile",
+      "rating": ""
+    },
+    {
+      "name": "Pair Programing",
+      "rating": ""
+    },
+    {
+      "name": "Test Driven Development",
+      "rating": ""
+    }
+  ]
+}

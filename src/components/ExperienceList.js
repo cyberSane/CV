@@ -1,5 +1,5 @@
 import {RectangleGroupIcon, BriefcaseIcon} from "@heroicons/react/24/outline";
-import data from '../data.json';
+import data from "../utils/dataHandler";
 
 const ExperienceList = () => {
     return <section className="pb-4">

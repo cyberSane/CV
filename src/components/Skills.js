@@ -1,5 +1,5 @@
 import {BoltIcon} from "@heroicons/react/24/outline";
-import data from "../data.json";
+import data from "../utils/dataHandler";
 
 const Skills = () => {
     return <div id="skills">

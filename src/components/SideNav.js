@@ -1,5 +1,4 @@
 import PersonalInfo from "./PersonalInfo";
-import data from "../data.json";
 import React from "react";
 import ContactInfo from "./ContactInfo";
 import EducationList from "./EducationList";

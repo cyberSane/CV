@@ -1,4 +1,4 @@
-import data from "../data.json";
+import data from "../utils/dataHandler";
 import React from "react";
 import {LanguageIcon} from "@heroicons/react/24/outline";
 
